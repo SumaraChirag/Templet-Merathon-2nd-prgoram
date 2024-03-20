@@ -280,7 +280,7 @@ body{
     
     }
     .main-con2 .para{
-        width: 50%;
+        width: 60%;
         color: white;
         font-size: 15px;
         margin-right: 50px;
@@ -415,10 +415,10 @@ body{
     
     }
     .main-con2 .para{
-        width: 50%;
+        width: 70%;
         color: white;
         font-size: 10px;
-        margin-right: 50px;
+        margin-right: 30px;
         text-align: end;
     }
     .footer{
@@ -554,7 +554,7 @@ body{
     
     }
     .main-con2 .para{
-        width: 50%;
+        width: 80%;
         color: white;
         font-size: 7px;
         margin-right: 20px;
